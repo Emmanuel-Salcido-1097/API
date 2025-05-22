@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Global Central Bank",
+    "location": "123 Reforma Ave, Ciudad de México",
+    "description": "Principal institución financiera en América Latina.",
+    "rating": 4.7,
+    "thumbnail": "https://raw.githubusercontent.com/Emmanuel-Salcido-1097/P8MisImagenes6I/main/Banco-Londres.jpg"
+  },
+  {
+    "id": 2,
+    "name": "National Trust Bank",
+    "location": "456 Liberty St, Nueva York, EE.UU.",
+    "description": "Banco de confianza para finanzas corporativas y personales.",
+    "rating": 4.5,
+    "thumbnail": "https://raw.githubusercontent.com/Emmanuel-Salcido-1097/P8MisImagenes6I/main/Banco-Chile.jpg"
+  },
+  {
+    "id": 3,
+    "name": "European Credit Union",
+    "location": "78 Champs-Élysées, París, Francia",
+    "description": "Banco enfocado en la comunidad con alcance europeo.",
+    "rating": 4.2,
+    "thumbnail": "https://raw.githubusercontent.com/Emmanuel-Salcido-1097/P8MisImagenes6I/main/banco4.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Asia Financial Group",
+    "location": "88 Finance Rd, Tokio, Japón",
+    "description": "Experiencia bancaria impulsada por tecnología en Asia.",
+    "rating": 4.8,
+    "thumbnail": "https://raw.githubusercontent.com/Emmanuel-Salcido-1097/P8MisImagenes6I/main/banco5.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Pacific Bank Corp",
+    "location": "321 Ocean Dr, Sídney, Australia",
+    "description": "Ofrece soluciones flexibles de préstamos y ahorro.",
+    "rating": 4.4,
+    "thumbnail": "https://raw.githubusercontent.com/Emmanuel-Salcido-1097/P8MisImagenes6I/main/banco6.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Andes Savings Bank",
+    "location": "12 Av. Los Andes, Quito, Ecuador",
+    "description": "Líder regional en microfinanzas y ahorro.",
+    "rating": 4.6,
+    "thumbnail": "https://raw.githubusercontent.com/Emmanuel-Salcido-1097/P8MisImagenes6I/main/banco7.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Northern Lights Bank",
+    "location": "45 Arctic Blvd, Oslo, Noruega",
+    "description": "Soluciones bancarias ecológicas para un futuro sostenible.",
+    "rating": 4.9,
+    "thumbnail": "https://raw.githubusercontent.com/Emmanuel-Salcido-1097/P8MisImagenes6I/main/bancoespaña.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Sahara Investment Bank",
+    "location": "201 Desert Way, El Cairo, Egipto",
+    "description": "Enfocado en financiamiento de desarrollo e infraestructura.",
+    "rating": 4.3,
+    "thumbnail": "https://raw.githubusercontent.com/Emmanuel-Salcido-1097/P8MisImagenes6I/main/bancoestadosunidos.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Amazonia Bank",
+    "location": "999 Rainforest Rd, Manaos, Brasil",
+    "description": "Banco innovador que apoya iniciativas de biodiversidad.",
+    "rating": 4.1,
+    "thumbnail": "https://raw.githubusercontent.com/Emmanuel-Salcido-1097/P8MisImagenes6I/main/bancolondres.jpg"
+  }
+]
